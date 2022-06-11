@@ -10,7 +10,8 @@ class FileReader
 		}, 
 		dollar_format: {
 			seperator: " $ ",
-			data_format: "%d-%m-%Y"}
+			date_format: "%d-%m-%Y"
+		}
 	}
 
 	def initialize(data)
